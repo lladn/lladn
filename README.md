@@ -4,7 +4,7 @@ I'am Louie Ladiona, Nice to meet you!.
 
 You can find more about me at my [personal page](https://louieladiona.netlify.app/about)
 
-📫 How to reach me: ...
+📫 How to reach me:
 [![Static Badge](https://img.shields.io/badge/lladn-black?logo=github)](https://github.com/lladn)
 [![Static Badge](https://img.shields.io/badge/Louie_Ladiona-black?logo=linkedin)](https://linkedin.com/in/ladionalouie)
 [![Static Badge](https://img.shields.io/badge/%40ladiona.louie-black?logo=gmail)](ladiona.louie@gmail.com)
