@@ -2,7 +2,7 @@
 
 I'am Louie Ladiona, Nice to meet you!.
 
-You can find more about me at my [personal page](https://louieladiona.netlify.app/about)
+You can find more about me at my [personal page](https://louieladiona.pages.dev/about)
 
 📫 How to reach me: 
 
